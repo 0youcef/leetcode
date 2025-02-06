@@ -5,3 +5,9 @@ This repository holds my solutions to various problems on [LeetCode](https://lee
 ## Languages Used
 
 - Rust
+
+## Problem Difficulty Breakdown
+
+- **Easy**: X problems
+- **Medium**: Y problems
+- **Hard**: Z problems
