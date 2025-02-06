@@ -8,6 +8,8 @@ This repository holds my solutions to various problems on [LeetCode](https://lee
 
 ## Problem Difficulty Breakdown
 
-- **Easy**: X problems
-- **Medium**: Y problems
-- **Hard**: Z problems
+- **Easy**: 2
+- **Medium**: 0
+- **Hard**: 0
+- 
+- **Total**: 2
