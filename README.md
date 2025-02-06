@@ -11,5 +11,6 @@ This repository holds my solutions to various problems on [LeetCode](https://lee
 - **Easy**: 2
 - **Medium**: 0
 - **Hard**: 0
-<br>
+
+
 - **Total**: 2
