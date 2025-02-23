@@ -13,6 +13,9 @@ fn top_k_frequent(nums: Vec<i32>, k: i32) -> Vec<i32> {
     }
     res
 }
+fn rust(a:u32)->bool{
+    
+}
 fn main() {
     let nums = vec![3, 3, 2, 1, 1, 1, 2];
     top_k_frequent(nums, 2);

@@ -9,7 +9,7 @@ This repository holds my solutions to various problems on [LeetCode](https://lee
 ## Problem Difficulty Breakdown
 
 - **Easy**: 3
-- **Medium**: 1
+- **Medium**: 3
 - **Hard**: 0
 
-- **Total**: 4
+- **Total**: 6
